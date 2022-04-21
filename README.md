@@ -4,3 +4,4 @@
 ## ![codiga score](https://api.codiga.io/project/32924/score/svg)
 ## [![Code Quality - Cppcheck](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml)
 ## [![Bulid CI - windows](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/windows.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/windows.yml)
+## [![Build_CI - Linux](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/linux.yml)
