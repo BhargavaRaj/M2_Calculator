@@ -1,8 +1,8 @@
 # M2_Calculator
 
 ## Introduction
-Calculator, In this project the designed embedded system has been created.The circuit had being developed on simulIDE software platform by 
-using Atmega328p microcontroller.In this project calculator has been made to perform addition, substraction, multiplication and division.
+Calculator, In this project the designed embedded system has been created. The circuit had being developed on simulIDE software platform by 
+using Atmega328p microcontroller. In this project calculator has been made to perform addition, substraction, multiplication and division.
 ## Features
 -   It is easier to get calculation in this project .
 -   The expressions used are for addition "+",substraction "-",multiplication "*",and division "/" .
