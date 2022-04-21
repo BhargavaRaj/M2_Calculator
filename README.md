@@ -5,3 +5,5 @@
 ![codiga grade](https://api.codiga.io/project/32924/status/svg)
 
 ![codiga score](https://api.codiga.io/project/32924/score/svg)
+
+[![Code Quality - Cppcheck](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml)
