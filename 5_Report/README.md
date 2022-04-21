@@ -2,12 +2,10 @@
 ## Introduction
 Calculator, In this project the designed embedded system has been created.The circuit had being developed on simulIDE software platform by 
 using Atmega328p microcontroller.In this project calculator has been made to perform addition, substraction, multiplication and division.
-
 ## Features
 -   It is easier to get calculation in this project .
 -   The expressions used are for addition "+",substraction "-",multiplication "*",and division "/" .
 -   LCD display will show you the calculations done by you .
- 
  ## Details Requirements
 ### High Level Requirements
  | ID  | Description  |
@@ -30,8 +28,7 @@ using Atmega328p microcontroller.In this project calculator has been made to per
 | - This beneficial for introducing calculator functions to anyone  |
 | ## Threats  |
 |  - There are already complex calculator with low cost available in the market  |
- 
-## 4W's & 1H
+ ## 4W's & 1H
 ### Why
 To make basic calculation easier.
 ### What
@@ -46,19 +43,22 @@ By installing the system.
 ![behaviourdiagram](https://github.com/BhargavaRaj/M2_Calculator/blob/2dbe10593cbf9c86bf8e2137347fd91332dff3aa/1_Requirements/behaviour%20diagram/behaviour%20diagram.png)
 ### Structral Diagram
 ![Structraldiagram](https://github.com/BhargavaRaj/M2_Calculator/blob/642d9dcfdd9857fb6d07de5b34d4503bc4aa2b74/1_Requirements/structural%20diagram/Structural%20Diagram.png)
-# Test Plan
+### Test Plan
 ## High level Test Plan
 | ID  | Description  | Expected O/P | Actual O/P  |
 |--- |--- |--- |--- |
 | H_01  | Read numbers  | Passed  | Success  |
 | H_02  | Read Expressions  | Passed  | Success  |
 | H_03  | Display Result  | Passed  | Success  |
-
 ## Low Level Test Plan
 | ID  | Description  | Expected O/P | Actual O/P  |
 |--- |--- |--- |--- |
 | L_01  | Start calculator  | Passed  | Success  |
 | L_01  | Final Value display  | Passed  | Success  |
+### Off State
+  ![offstate](https://github.com/BhargavaRaj/M2_Calculator/blob/0ad62b079d390d188250c26097cd224d7923675f/6_Output/2022-04-21%20(2).png)
+### On state
+![onstate](https://github.com/BhargavaRaj/M2_Calculator/blob/e404baa6f3f8ff409866f2843aac05231456cf60/6_Output/2022-04-21.png)
 
 
 
