@@ -1,4 +1,6 @@
 # M2_Calculator
+## Abstract
+ The calculator is a device that performs arithmetic operations on numbers. The basic calculators can do only addition, subtraction, multiplication, and division. A basic calculator is sometimes referred to as a 4-function calculator. It's able to do simple arithmetic, which includes addition, subtraction, multiplication, and division.The central aim of the project was to test the hypothesis that providing so-called calculators would improve student's performance in those parts of the undergraduate first-year that relied on formal reasoning skills. Calculators, computers, and a growing array of technological innovations are important tools for doing mathematics, joining the ranks of the compass, straightedge, pencil, slide rule, and trig tables. Calculators are so common place in modern education and can be found stashed away in many homes, mementos from taking the SAT or computing integrals on the Advanced Placement calculus exam. Still, college professors remain divided on the use of calculators in their classes.
 ## Introduction
 Calculator, In this project the designed embedded system has been created.The circuit had being developed on simulIDE software platform by 
 using Atmega328p microcontroller.In this project calculator has been made to perform addition, substraction, multiplication and division.
