@@ -1,4 +1,4 @@
-# M2_Calculator
+# M2 _Calculator_
 
 ## Introduction
 Calculator, In this project the designed embedded system has been created.The circuit had being developed on simulIDE software platform by 
@@ -12,7 +12,7 @@ using Atmega328p microcontroller.In this project calculator has been made to per
  ## Details Requirements
 ### High Level Requirements
  | ID  | Description  |
- |--- |--- |
+ |---  |--- |
  | HLR1  | Press shift + c key to start the calculator  |
  | HLR2  | keyboard is used to give the input  |
  | HLR3  | LCD display shows output  |
