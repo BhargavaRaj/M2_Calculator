@@ -43,4 +43,4 @@ Any learning hub or tuition classroom.
 When it is difficult 
 ### How
 By installing the system.
-!(behaviourdiagram)[https://github.com/BhargavaRaj/M2_Calculator/blob/2dbe10593cbf9c86bf8e2137347fd91332dff3aa/1_Requirements/behaviour%20diagram/behaviour%20diagram.png]
+![behaviourdiagram](https://github.com/BhargavaRaj/M2_Calculator/blob/2dbe10593cbf9c86bf8e2137347fd91332dff3aa/1_Requirements/behaviour%20diagram/behaviour%20diagram.png)
