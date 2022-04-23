@@ -5,4 +5,4 @@
 ## [![Code Quality - Cppcheck](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/cpp.yml)
 ## [![Bulid CI - windows](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/windows.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/windows.yml)
 ## [![Build_CI - Linux](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/linux.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/linux.yml)
-## [![Git Inspector](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/BhargavaRaj/M2_Calculator/actions/workflows/git%20inspector.yml)
+
